@@ -1,4 +1,4 @@
-<h1>Hi! My name is <a href="#" target="_blank">Daniar</a> 
+<h1>Hi! My name is <a href="#" target="_blank">Adykeev Daniar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 👨‍💻 Languages and tools:
