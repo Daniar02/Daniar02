@@ -4,6 +4,9 @@
 ## 👨‍💻 LANGUAGES AND TOOLS:
 
 <p align="left">
+     <a href="" target="_blank">
+      <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="60" height="50"/>
+    </a>
     <a href="" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
     </a>
